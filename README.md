@@ -65,6 +65,18 @@ I don't just "watch tutorials." I test myself daily with rigorous engineering st
 
 ---
 
+## 📚 The Curriculum (Best GitHub Resources)
+
+These are the open-source roadmaps I am following:
+
+- **[roadmap.sh/ai-engineer](https://roadmap.sh/ai-engineer)** - The definitive skill tree.
+- **[huggingface/course](https://github.com/huggingface/course)** - Transformers & NLP from scratch.
+- **[chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book)** - System Design for ML Engineers.
+- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** - Hands-on GenAI labs.
+- **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** - Scalable system architecture.
+
+---
+
 ## 📅 The Daily Grind (Routine)
 
 | Time | Activity | Focus |
