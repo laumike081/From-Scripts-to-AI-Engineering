@@ -1,4 +1,4 @@
-# From Scripts to Systems: The Computational Biologist → AI Engineer Roadmap
+# A Road Map From Scripts to AI Engineer 
 
 **Author:** [laumike081](https://github.com/laumike081)  
 **Background:** Ph.D. Computational Biologist  
