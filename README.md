@@ -13,6 +13,11 @@ I spent years writing Python scripts to analyze biological data. But the future 
 
 This repository documents my transition from "running scripts in a notebook" to **building production-grade AI systems**.
 
+### My "Why"
+1.  **The Shift:** Biology used to be about *analyzing* data. The future is about *generating* it (AlphaFold, Diffusion Models). I want to build the generators, not just use the output.
+2.  **The Scale:** Academic scripts don't scale. To cure diseases, we need industrial-grade systems that run on thousands of GPUs, not a single laptop.
+3.  **The Agentic Future:** LLMs aren't just chatbots; they are reasoning engines. I believe **AI Agents** will be the ones designing the next blockbuster drugs. I want to be the one architecting them.
+
 ---
 
 ## 🗺️ The Roadmap: The 3 Pillars of AI Engineering
@@ -39,12 +44,33 @@ To bridge the gap from "Scientist" to "Engineer," I am focusing on three core pi
 
 ---
 
+## 📝 The Protocol: How I Test Myself (The Gauntlet)
+
+I don't just "watch tutorials." I test myself daily with rigorous engineering standards.
+
+### 1. The Algorithm Gauntlet (LeetCode)
+- **Goal:** 25 Problems/Day (Medium/Hard).
+- **Focus:** Arrays, HashMaps, Trees, Graphs, DP.
+- **Why:** To prove I can write optimized, bug-free code under pressure.
+
+### 2. The SQL & Data Gauntlet (StrataScratch)
+- **Goal:** Master complex SQL queries & data transformations.
+- **Focus:** Window functions, complex joins, data cleaning.
+- **Why:** Data is the fuel. If I can't query it efficiently, I can't build AI on top of it.
+
+### 3. The System Design Gauntlet (Mock Interviews)
+- **Goal:** Design scalable ML systems from scratch (e.g., "Design a Drug Discovery Platform").
+- **Focus:** Trade-offs (Latency vs. Throughput), Data Pipelines, Serving Infrastructure.
+- **Why:** Senior Engineers are hired for their design decisions, not just their code.
+
+---
+
 ## 📅 The Daily Grind (Routine)
 
 | Time | Activity | Focus |
 | :--- | :--- | :--- |
 | **05:00 - 08:00** | 🧠 Deep Work | Learning New Tech (Papers/Courses) |
-| **10:30 - 12:00** | ⚔️ The Gauntlet | LeetCode Hard + System Design |
+| **10:30 - 12:00** | ⚔️ The Gauntlet | LeetCode + StrataScratch |
 | **13:30 - 15:30** | 🛠️ Project Build | Coding & Deploying Portfolio Apps |
 
 ---
