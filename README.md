@@ -1,14 +1,9 @@
 # A Roadmap to AI Engineer: From Scripts to AI Engineering
 
 ---
-
-## Why: 
-
-I spent years writing Python scripts to analyze biological data. But the future of biology isn't just *analyzing* data—it's **building systems** that can reason, scale, and discover.
-
 This repository documents my transition from "running scripts in a notebook" to **building production-grade AI systems**.
 
-### My "Why"
+## My "Why"
 1.  **The Shift:** Biology used to be about *analyzing* data. The future might shift towards *generating* it (AlphaFold, Diffusion Models) and verify them in the lab. 
 2.  **The Scale:** Isolated scripts or software package don't scale. To support drug discovery, we need industrial-grade systems that run on thousands of GPUs, not a single laptop.
 3.  **The Agentic Future:** LLMs aren't just chatbots; they are reasoning engines. I believe **AI Agents** will be the ones designing the next blockbuster drugs. 
