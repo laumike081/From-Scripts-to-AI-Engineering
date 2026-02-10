@@ -1,4 +1,4 @@
-# A Road Map From Scripts to AI Engineer 
+# From Scripts to Systems: The Computational Biologist → AI Engineer Roadmap
 
 **Author:** [laumike081](https://github.com/laumike081)  
 **Background:** Ph.D. Computational Biologist  
@@ -65,15 +65,24 @@ I don't just "watch tutorials." I test myself daily with rigorous engineering st
 
 ---
 
-## 📚 The Curriculum (Best GitHub Resources)
+## 📚 The Curriculum (GitHub Resources)
 
-These are the open-source roadmaps I am following:
-
+### 🗺️ The Roadmap (Skill Trees)
 - **[roadmap.sh/ai-engineer](https://roadmap.sh/ai-engineer)** - The definitive skill tree.
-- **[huggingface/course](https://github.com/huggingface/course)** - Transformers & NLP from scratch.
-- **[chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book)** - System Design for ML Engineers.
-- **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** - Hands-on GenAI labs.
 - **[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)** - Scalable system architecture.
+
+### 🤖 The Agentic & LLM Track
+- **[karpathy/minGPT](https://github.com/karpathy/minGPT)** - Build GPT from scratch in 300 lines of PyTorch. (Must do).
+- **[facebookresearch/llama](https://github.com/facebookresearch/llama)** - Production-grade LLM inference code.
+- **[huggingface/course](https://github.com/huggingface/course)** - Transformers & NLP from scratch.
+
+### 👁️ The Vision & Bio Track
+- **[open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)** - Gold standard for Object Detection (Cells/Tissues).
+- **[dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses)** - CS224N (NLP) & CS231n (Vision).
+
+### 🏭 The Production Track (Real World ML)
+- **[eugeneyan/applied-ml](https://github.com/eugeneyan/applied-ml)** - Engineering blogs from Netflix, Uber, Spotify.
+- **[chiphuyen/ml-interviews-book](https://github.com/chiphuyen/ml-interviews-book)** - System Design for ML Engineers.
 
 ---
 
