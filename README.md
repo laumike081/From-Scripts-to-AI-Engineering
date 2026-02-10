@@ -81,16 +81,6 @@ I don't just "watch tutorials." I test myself daily with rigorous engineering st
 
 ---
 
-## 📅 The Daily Grind (Routine)
-
-| Time | Activity | Focus |
-| :--- | :--- | :--- |
-| **05:00 - 08:00** | 🧠 Deep Work | Learning New Tech (Papers/Courses) |
-| **10:30 - 12:00** | ⚔️ The Gauntlet | LeetCode + StrataScratch |
-| **13:30 - 15:30** | 🛠️ Project Build | Coding & Deploying Portfolio Apps |
-
----
-
 ## 🚀 Projects (Proof of Work)
 
 | Project | Description | Stack | Status |
