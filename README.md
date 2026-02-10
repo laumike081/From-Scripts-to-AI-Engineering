@@ -1,4 +1,4 @@
-# From Scripts to Systems: The Computational Biologist → AI Engineer Roadmap
+# A Roadmap to AI Engineer: From Scripts to AI Engineering
 
 ---
 
