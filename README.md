@@ -1,10 +1,5 @@
 # From Scripts to Systems: The Computational Biologist → AI Engineer Roadmap
 
-**Author:** [laumike081](https://github.com/laumike081)  
-**Background:** Ph.D. Computational Biologist  
-**Goal:** Senior AI/ML Engineer (Focus: Agents, Cloud, Scaling)  
-**Timeline:** 6 Months  
-
 ---
 
 ## 🧬 The Why: "Biology is becoming an Engineering Discipline."
