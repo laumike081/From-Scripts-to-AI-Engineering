@@ -44,7 +44,7 @@ To bridge the gap from "Scientist" to "Engineer," I am focusing on three core pi
 I don't just "watch tutorials." I test myself daily with rigorous engineering standards.
 
 ### 1. The Algorithm Gauntlet (LeetCode)
-- **Goal:** 25 Problems/Day (Medium/Hard).
+- **Goal:** 15 Problems/Day (Easy/Medium/hard).
 - **Focus:** Arrays, HashMaps, Trees, Graphs, DP.
 - **Why:** To prove I can write optimized, bug-free code under pressure.
 
