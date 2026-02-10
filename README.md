@@ -2,7 +2,7 @@
 
 ---
 
-## Why: "Computational Biology is more or less becoming an Engineering Discipline, with AF is an excellent example."
+## Why: "Computational Biology is more or less becoming an Engineering Discipline, with AF being an excellent example."
 
 I spent years writing Python scripts to analyze biological data. But the future of biology isn't just *analyzing* data—it's **building systems** that can reason, scale, and discover.
 
